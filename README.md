@@ -35,7 +35,7 @@ Built with love and gratitude, Sai Vachan reflects an intention to keep technolo
 ## Installation Guide
 
 For step-by-step instructions to install the extension in Google Chrome,  
-📄 **[Download the Installation Guide (PDF)](Sai_Vachan_Installation_Guide.pdf)**
+📄 **[Download the Installation Guide (PDF)](Sai%20Vachan%20Installation%20Guide.pdf)**
 
 > This guide is intended for non-technical users and first-time Chrome extension installations.
 
