@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  width: 360px;
+  height: 360px;
+  font-family: "Times New Roman", serif;
+  background: black;
+}
+
+#card {
+  width: 100%;
+  height: 100%;
+  background-image: url("assets/template.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+
+/*  QUOTE MUST BE ABOVE BACKGROUND */
+#quote {
+  position: absolute;
+  top: 210px;
+  left: 45px;
+  right: 45px;
+
+  color: white;
+  font-size: 18px;
+  line-height: 1.4;
+  text-align: center;
+
+  z-index: 10;        /* THIS WAS MISSING */
+  pointer-events: none;
+}
