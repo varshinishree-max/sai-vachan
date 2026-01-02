@@ -32,6 +32,12 @@ Built with love and gratitude, Sai Vachan reflects an intention to keep technolo
 - **Accessibility**: Legible typography and consistent layout across devices  
 
 ---
+## Installation Guide
+
+For step-by-step instructions to install the extension in Google Chrome,  
+📄 **[Download the Installation Guide (PDF)](Sai_Vachan_Installation_Guide.pdf)**
+
+> This guide is intended for non-technical users and first-time Chrome extension installations.
 
 ## Repository Structure
 ```text
